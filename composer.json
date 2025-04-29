@@ -1,0 +1,19 @@
+{
+    "name": "younan/laramarket",
+    "description": "Market for Laravel",
+    "type": "library",
+    "require": {
+        "laravel/framework": "12"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Younan\\Laramarket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karabella"
+        }
+    ]
+}
