@@ -1,7 +1,7 @@
 {
     "name": "ikarabella/laramarket",
     "description": "Market for Laravel",
-    "type": "library",
+    "type": "project",
     "require": {
         "laravel/framework": ">=12"
     },
