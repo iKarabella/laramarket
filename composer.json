@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Younan\\Laramarket\\": "src/"
+            "Karabella\\Laramarket\\": "src/"
         }
     },
     "authors": [
