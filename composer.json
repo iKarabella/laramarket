@@ -3,7 +3,7 @@
     "description": "Market for Laravel",
     "type": "library",
     "require": {
-        "laravel/framework": "12"
+        "laravel/framework": ">=12"
     },
     "license": "MIT",
     "autoload": {
